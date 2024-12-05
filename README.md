@@ -43,7 +43,6 @@ Here’s a taste of what’s inside:
 ## 🛠 License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
-All works must credit **Average Joe's Hosting LLC** and **Kizz MyAnthia**.
 
 For full details, see the [LICENSE](LICENSE) file.
 
@@ -53,7 +52,10 @@ For full details, see the [LICENSE](LICENSE) file.
 
 Have questions, feedback, or just want to share your favorite coding haiku? Reach out to us:
 
-- **Average Joe's Hosting LLC**: [averagejoeshosting.com](https://averagejoeshosting.com)  
+- **Website**: [Average Joe's Hosting](https://averagejoeshosting.com)  
+- **Facebook**: [Average Joe's Hosting Facebook](https://www.facebook.com/averagejoeshosting)  
+- **Twitter**: [@AvgJoesHosting](https://twitter.com/AvgJoesHosting)  
+- **LinkedIn**: [Average Joe's Hosting LinkedIn](https://www.linkedin.com/company/averagejoeshosting)  
 - **Contact**: 📞 (888) 563-1216  
 
 Happy rhyming! 🎉
